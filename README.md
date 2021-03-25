@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ridanm
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning css and javascript
-- 💞️ I’m looking to collaborate on frontend
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning html, css, javascript
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me: Ridanm@hotmail.com
 
 <!---
