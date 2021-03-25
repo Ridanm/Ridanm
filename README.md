@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ridanm
+- 👋 Hi, I’m @Ridanm my spanish lenguage 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html, css, javascript
 - 💞️ I’m looking to collaborate 
