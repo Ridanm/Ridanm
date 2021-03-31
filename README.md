@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ridanm my spanish lenguage 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html, css, javascript
-- 💞️ I’m looking to collaborate 
+- 💞️ I’m looking to learn always that i can 
 - 📫 How to reach me: Ridanm@hotmail.com
 
 <!---
