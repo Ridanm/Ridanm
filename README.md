@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Richard my spanish lenguage 
+- 👋 Hi, I’m Richard
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html, css, javascript, ruby
 - 💞️ I’m looking to learn always that i can 
